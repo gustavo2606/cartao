@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(11, 65, 126);
+}
+
+
+
+.container {
+    border: 1px solid #d3d3d3;
+    background-color: #fffbfb;
+    border-radius: 12px;
+    width: 300px;
+    padding: 16px;
+    box-shadow: 0px 0 10px #d3d3d3;
+     margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+
+.banner01 {
+    width: 300px;
+    height: 150px;
+    border-radius: 8px;
+
+}
+
+.txtdesigne {
+    background-color: #f1c4fa;
+    color: #651365;
+    font-size: 14px;
+    border-radius: 50px;
+    font-family: Arial;
+    text-align: center;
+    width: 70px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+.titulo {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: Arial;
+    color: #292929;
+}
+
+.text01 {
+    font-size: 16px;
+    font-family: Arial;
+    color: #555555;
+    line-height: 26px;
+
+
+}
+
+.autor {
+    font-size: 14px;
+    font-family: Arial;
+    font-weight: bold;
+    color: #555;
+}
